@@ -1,2 +1,3 @@
 def magic_calculation(a, b):
-    return len(magic_calculations)
+    return (98 *(a + b))
+    
